@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: aks-helloworld-one  
-  namespace: narendra-ns
+  namespace: narendra-ns1
 spec:
   replicas: 1
   selector:
