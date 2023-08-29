@@ -26,7 +26,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: narendra-svs-1
-  namespace: narendra-ns
+  namespace: narendra-ns1
 spec:
   type: ClusterIP
   ports:
